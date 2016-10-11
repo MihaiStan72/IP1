@@ -48,3 +48,6 @@ Temporary Items
 t1.h
 Tema1.cbp
 Tema1.layout
+obj/Debug/main.o
+bin/Debug/Tema1.exe
+*.depend
