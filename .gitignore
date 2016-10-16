@@ -51,3 +51,7 @@ Tema1.layout
 obj/Debug/main.o
 bin/Debug/Tema1.exe
 *.depend
+main.exe
+*.o
+ip1.cbp
+*.exe
