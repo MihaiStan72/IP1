@@ -55,3 +55,16 @@ main.exe
 *.o
 ip1.cbp
 *.exe
+IP1/IP1.vcxproj
+*.filters
+*.obj
+IP1/Debug/vc140.idb
+*.pdb
+*.tlog
+IP1/Debug/IP1.log
+*.opendb
+IP1.VC.db
+*.ilk
+.vs/main/v14/.suo
+*.suo
+IP1.sln
